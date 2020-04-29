@@ -1,2 +1,2 @@
-# my-personal-blog
-Create my own personal blog as a product of web programming free online course Harvard University
+# my-personal-website
+Create my own personal website as a product of web programming free online course Harvard University
