@@ -1,2 +1,3 @@
-# my-personal-website
-Create my own personal website as a product of web programming free online course Harvard University
+# Project 0
+
+Web Programming with Python and JavaScript
